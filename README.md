@@ -7,7 +7,7 @@ CSES is an online judge platform hosted by the Department of Computer Science at
 The problems on CSES cover a wide range of topics, including:
 
 1. Introductory Problems
-2. [Sorting and Searching](../CSES/Searching%20and%20Sorting/)
+2. [Sorting and Searching](../Searching%20and%20Sorting/)
 3. Dynamic Programming
 4. Graph Algorithms
 5. Range Queries
