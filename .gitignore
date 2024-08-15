@@ -1,4 +1,4 @@
 *.cph
-*.vscode
+*.vscode/
 *.exe
-*.build
+*.build/
