@@ -3,7 +3,7 @@ def permutations(n:int):
     Given n, we need to construct a permutation where
     no adjacent elements whose difference is 1
     """
-    if n in [1,2,3]:
+    if n in [2,3]:
         print("NO SOLUTION")
         return
     
@@ -15,7 +15,7 @@ def permutations(n:int):
                 odd_string += str(i) + " "
             else:
                 even_string += str(i) +" "
-        result_string = odd_string + even_string
+        result_string = even_string + odd_string
 
         print(result_string)
 
